@@ -5,14 +5,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
-
-Hi my name is Oregunwa Oluwadamilola Michael. I am a programmer that is interested in changing the world
-I believe that all information should be free and open to all.
-I am currently learning web3 technologies so I am probably going to be like Alan Turing but for the web
-I am looking to collaborate on any cool projects that anyone has.
-I know **Rust**, **Python**, **Javascript** and **Dart/Flutter**.
-Don't worry about contacting me. If your project is good I will contact you don't worry
-Ciao guys!!😁😁😁☺☺☺
+Hi, I am a Rust, Python, React, and Flutter developer that likes working on cool projects with cool people<br>
+I'm currently learning Systems Programming in Rust which I am really having fun learning<br>
+You can currently reach me on 
+ - Instagram at [@Kvng_mikkyj](https://www.instagram.com/kvng_mikkyj/)
+ - Twitter at [@RealKvngMikky](https://twitter.com/RealKvngMikky)
 
 <!---
 mikky-j/mikky-j is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
