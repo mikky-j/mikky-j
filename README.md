@@ -8,7 +8,7 @@
 Hi, I am a Rust, Python, React, and Flutter developer that likes working on cool projects with cool people<br>
 I'm currently learning Systems Programming in Rust which I am really having fun learning<br>
 You can currently reach me on 
- - Instagram at [@Kvng_mikkyj](https://www.instagram.com/dami.oregunwa/)
+ - Instagram at [@dami.oregunwa](https://www.instagram.com/dami.oregunwa/)
  - Twitter at [@RealKvngMikky](https://twitter.com/RealKvngMikky)
 
 <!---
